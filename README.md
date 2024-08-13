@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Eislett-JDev-SamuelBaboolal
+- 👀 I’m an all rounder interested in Computer science, software dev, biology and mainly (career) medicine
+- 🌱 I’m currently learning Java, TS, React, CPP
